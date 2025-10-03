@@ -1,16 +1,19 @@
-## Hi there 👋
+# Welcome to My GitHub!
 
-<!--
-**ProsellaAnalyst/ProsellaAnalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm Daniella Shalom, and I'm so glad you stopped by. This is my space on GitHub where I explore, build, and share my journey in data analytics with my brand, ProsellaAnalyst.
 
-Here are some ideas to get you started:
+- **Role**: Data Analyst | Founder of ProsellaAnalyst
+- **Passion**: Turning raw data into meaningful insights and stunning visualizations
+- **Goal**: Grow my skills and help others understand data better
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Here you'll find:
+- Projects I've built using tools like [e.g., Python, Tableau]
+- Interactive dashboards and reports
+- Learnings and challenges in data analytics
+
+## Tech Stack & Tools
+- **Languages & Tools**: [e.g., Python, SQL]
+- **Data Analytics & BI**: [e.g., Power BI, Excel]
+
+## Let's Connect!  
+- [LinkedIn](www.linkedin.com/in/prosellaanalyst) 
