@@ -12,7 +12,7 @@ Hi there! I'm Daniella Shalom, and I'm so glad you stopped by. This is my space 
 - Learnings and challenges in data analytics
 
 ## Tech Stack & Tools
-- **Languages & Tools**: [e.g., Python, SQL]
+- **Languages & Tools**: [e.g., Python, MySQL]
 - **Data Analytics & BI**: [e.g., Power BI, Excel]
 
 ## Let's Connect!  
