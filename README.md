@@ -1,24 +1,38 @@
-# Welcome to My GitHub!
+# 🌟 Welcome to My GitHub!
 
-Hi, I'm Daniella Shalom 👋 – ProsellaAnalyst, and I'm so glad you stopped by. This is my space on GitHub where I explore, build, and share my journey in data analytics with my brand, ProsellaAnalyst.
+Hi there! 👋 I'm **Daniella Shalom** — also known as **ProsellaAnalyst**.  
+Welcome to my little corner of GitHub where I explore, build, and share my journey in **data analytics** under my brand **ProsellaAnalyst**.  
 
-**Data enthusiast passionate about solving tough data problems and telling stories that guide smarter decisions.**  
-SQL | Python | Power BI | Excel | Data Viz
+💡 **I’m a data enthusiast passionate about solving tough data problems and telling stories that inspire smarter decisions.**
 
-- **Role**: Data Analyst 
-- **Passion**: Turning raw data into meaningful insights and stunning visualizations
-- **Goal**: Grow my skills and help others understand data better
+---
 
-##  More on the Horizon
-- Projects I've built using tools like [e.g., Python, Tableau]
-- Interactive dashboards and reports
-- Learnings and challenges in data analytics
+### 🎯 About Me  
+📊 **Role:** Data Analyst  
+💻 **Skills:** SQL | Python | Power BI | Excel | Data Visualization  
+❤️ **Passion:** Turning raw data into meaningful insights and stunning visualizations  
+🚀 **Goal:** Grow my skills and help others understand and use data better  
 
-## Tech Stack & Tools
-- **Languages & Tools**: [e.g., Python, MySQL]
-- **Data Analytics & BI**: [e.g., Power BI, Excel]
+---
 
-## Let's Connect!  
-- [LinkedIn](www.linkedin.com/in/prosellaanalyst) | 📊 Portfolio: More projects @ GitHub  
-**Open to collabs on data storytelling!** 💡
+### 🌈 More on the Horizon  
+✨ Projects I’ve built using tools like **Python**, **Power BI**, and **Excel**  
+📊 Interactive dashboards and reports for real-world datasets  
+🧠 Learnings, challenges, and insights from my analytics journey  
 
+---
+
+### 🧰 Tech Stack & Tools  
+**Languages & Tools:** 🐍 Python | 🗄️ MySQL | 📗 Excel  
+**Data Analytics & BI:** 📈 Power BI | 📊 Tableau | 🧮 Pandas | 🔢 NumPy | 📉 Matplotlib  
+
+---
+
+### 🌐 Let’s Connect!  
+💼 [**LinkedIn**](https://www.linkedin.com/in/prosellaanalyst)  
+📊 **Portfolio:** More projects here on my [GitHub Repositories](https://github.com/prosellaanalyst?tab=repositories)  
+🤝 **Open to collaborations** on data storytelling, dashboards, and analytics!  
+
+---
+
+> 🪶 *“Data tells stories — I just help make them clearer.”*
