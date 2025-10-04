@@ -1,6 +1,6 @@
 # Welcome to My GitHub!
 
-Hi, I'm Daniela Shalom 👋 – ProsellaAnalyst, and I'm so glad you stopped by. This is my space on GitHub where I explore, build, and share my journey in data analytics with my brand, ProsellaAnalyst.
+Hi, I'm Daniella Shalom 👋 – ProsellaAnalyst, and I'm so glad you stopped by. This is my space on GitHub where I explore, build, and share my journey in data analytics with my brand, ProsellaAnalyst.
 
 **Data enthusiast passionate about solving tough data problems and telling stories that guide smarter decisions.**  
 SQL | Python | Power BI | Excel | Data Viz
