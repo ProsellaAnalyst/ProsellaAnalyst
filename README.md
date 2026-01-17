@@ -23,7 +23,7 @@ If a dashboard doesn’t influence a decision, it isn’t finished.
 
 ---
 
-## What You’ll Find Here
+## What You’ll Find Here ✨
 
 - Decision-focused analytics projects  
 - Business dashboards explained in plain language  
@@ -69,6 +69,6 @@ Tools are secondary. Insight is the product.
 
 **Data doesn’t make decisions.  
 People do.  
-I help them decide better.**😊
+I help them decide better.** 😊
 
-# I solve tough data problems and tell stories that giide smarter decisions.
+# I solve tough data problems and tell stories that guide smarter decisions.
