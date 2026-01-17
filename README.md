@@ -1,38 +1,76 @@
-# 🌟 Welcome to My GitHub!
 
-Hi there! 👋 I'm **Daniella Shalom** — also known as **ProsellaAnalyst**.  
-Welcome to my little corner of GitHub where I explore, build, and share my journey in **data analytics** under my brand **ProsellaAnalyst**.  
+# =========================
 
-💡 **I’m a data enthusiast passionate about solving tough data problems and telling stories that inspire smarter decisions.**
+# Welcome to My GitHub
 
----
+Hi, I’m **Daniella Shalom** — also known as **ProsellaAnalyst / Analyst Prosella**.
 
-### 🎯 About Me  
-📊 **Role:** Data Analyst  
-💻 **Skills:** SQL | Python | Power BI | Excel | Data Visualization  
-❤️ **Passion:** Turning raw data into meaningful insights and stunning visualizations  
-🚀 **Goal:** Grow my skills and help others understand and use data better  
+This repository isn’t a collection of dashboards.  
+It’s a collection of **decisions shaped by data**.
+
+I work at the intersection of analytics and strategy, using data to surface risks, uncover opportunities, and recommend **what should happen next**.
 
 ---
 
-### 🌈 More on the Horizon  
-✨ Projects I’ve built using tools like **Python**, **Power BI**, and **Excel**  
-📊 Interactive dashboards and reports for real-world datasets  
-🧠 Learnings, challenges, and insights from my analytics journey  
+## About Me
+
+**Role:** Decision Intelligence Analyst  
+
+I focus on:
+- Translating complex data into clear business actions  
+- Explaining performance in a way non-technical leaders understand  
+- Designing insights that reduce uncertainty and guide decisions  
+
+If a dashboard doesn’t influence a decision, it isn’t finished.
 
 ---
 
-### 🧰 Tech Stack & Tools  
-**Languages & Tools:** 🐍 Python | 🗄️ MySQL | 📗 Excel  
-**Data Analytics & BI:** 📈 Power BI | 📊 Tableau | 🧮 Pandas | 🔢 NumPy | 📉 Matplotlib  
+## What You’ll Find Here
+
+- Decision-focused analytics projects  
+- Business dashboards explained in plain language  
+- Strategic recommendations grounded in data  
+- Case-style breakdowns of:
+  - What the numbers mean  
+  - What decision they support  
+
+Every project answers one core question:
+
+**What decision does this data enable?**
 
 ---
 
-### 🌐 Let’s Connect!  
-💼 [**LinkedIn**](https://www.linkedin.com/in/prosellaanalyst)  
-📊 **Portfolio:** More projects here on my [GitHub Repositories](https://github.com/prosellaanalyst?tab=repositories)  
-🤝 **Open to collaborations** on data storytelling, dashboards, and analytics!  
+## Tools & Technologies
+
+### Data & Analysis
+- Python
+- SQL (MySQL,SSMS)
+- Excel
+
+### Analytics & Visualization
+- Power BI
+- Looker Studio 
+- Pandas
+- NumPy
+- Matplotlib
+
+Tools are secondary. Insight is the product.
 
 ---
 
-> 🪶 *“Data tells stories — I just help make them clearer.”*
+## Connect
+
+- LinkedIn: *(https://www.linkedin.com/in/prosellaanalyst)*
+- Portfolio: Explore the repositories in this GitHub
+- Open to collaborations in:
+  - Decision intelligence
+  - Business analytics
+  - Data storytelling
+
+---
+
+**Data doesn’t make decisions.  
+People do.  
+I help them decide better.**
+
+# =========================
