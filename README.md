@@ -1,7 +1,5 @@
 
-# =========================
-
-# Welcome to My GitHub
+# Welcome to My GitHub 👋🏼 🤗 
 
 Hi, I’m **Daniella Shalom** — also known as **ProsellaAnalyst / Analyst Prosella**.
 
@@ -12,7 +10,7 @@ I work at the intersection of analytics and strategy, using data to surface risk
 
 ---
 
-## About Me
+## About Me 🌷
 
 **Role:** Decision Intelligence Analyst  
 
@@ -71,6 +69,6 @@ Tools are secondary. Insight is the product.
 
 **Data doesn’t make decisions.  
 People do.  
-I help them decide better.**
+I help them decide better.**😊
 
-# =========================
+# I solve tough data problems and tell stories that giide smarter decisions.
