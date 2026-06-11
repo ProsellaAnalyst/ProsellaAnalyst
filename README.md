@@ -1,39 +1,35 @@
+# Welcome to My GitHub 👋🏼🤗
 
-# Welcome to My GitHub 👋🏼 🤗 
+Hi, I'm **Daniella Shalom** — also known as **ProsellaAnalyst / Analyst Prosella**.
 
-Hi, I’m **Daniella Shalom** — also known as **ProsellaAnalyst / Analyst Prosella**.
+This repository isn't a collection of dashboards.  
+It's a collection of **decisions shaped by data**.
 
-This repository isn’t a collection of dashboards.  
-It’s a collection of **decisions shaped by data**.
-
-I work at the intersection of analytics and strategy, using data to surface risks, uncover opportunities, and recommend **what should happen next**.
+I'm a data analyst transitioning into data science and AI engineering, building toward systems that don't just report what's happening — but help determine what should happen next.
 
 ---
 
 ## About Me 🌷
 
-**Role:** Decision Intelligence Analyst  
+I work at the intersection of analytics and emerging AI systems, using data to surface risks, uncover opportunities, and structure **what should happen next**.
 
-I focus on:
-- Translating complex data into clear business actions  
-- Explaining performance in a way non-technical leaders understand  
-- Designing insights that reduce uncertainty and guide decisions  
+Finance and e-commerce are where I feel most at home — that's where my experience lives and where I want to build.
 
-If a dashboard doesn’t influence a decision, it isn’t finished.
+If a dashboard doesn't influence a decision, it isn't finished.
 
 ---
 
-## What You’ll Find Here ✨
+## What You'll Find Here ✨
 
-- Decision-focused analytics projects  
-- Business dashboards explained in plain language  
-- Strategic recommendations grounded in data  
+- Decision-focused analytics projects
+- SQL analysis grounded in real business questions
+- Business dashboards explained in plain language
+- Strategic recommendations grounded in data
 - Case-style breakdowns of:
-  - What the numbers mean  
-  - What decision they support  
+  - What the numbers mean
+  - What decision they support
 
-Every project answers one core question:
-
+Every project answers one core question:  
 **What decision does this data enable?**
 
 ---
@@ -42,15 +38,16 @@ Every project answers one core question:
 
 ### Data & Analysis
 - Python
-- SQL (MySQL,SSMS)
+- SQL (PostgreSQL, MySQL, SSMS)
 - Excel
 
 ### Analytics & Visualization
 - Power BI
-- Looker Studio 
+- Looker Studio
 - Pandas
 - NumPy
-- Matplotlib
+- Matplotlib *(in progress)*
+- Seaborn *(in progress)*
 
 Tools are secondary. Insight is the product.
 
@@ -58,17 +55,17 @@ Tools are secondary. Insight is the product.
 
 ## Connect
 
-- LinkedIn: *(https://www.linkedin.com/in/prosellaanalyst)*
+- LinkedIn: [prosellaanalyst](https://www.linkedin.com/in/prosellaanalyst)
 - Portfolio: Explore the repositories in this GitHub
 - Open to collaborations in:
-  - Decision intelligence
+  - Data science & AI engineering
   - Business analytics
-  - Data storytelling
+  - Decision intelligence
 
 ---
 
-**Data doesn’t make decisions.  
+**Data doesn't make decisions.  
 People do.  
 I help them decide better.** 😊
 
-# I solve tough data problems and tell stories that guide smarter decisions.
+*I solve tough data problems and build systems that guide smarter decisions.*
