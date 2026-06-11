@@ -46,8 +46,8 @@ Every project answers one core question:
 - Looker Studio
 - Pandas
 - NumPy
-- Matplotlib *(in progress)*
-- Seaborn *(in progress)*
+- Matplotlib 
+- Seaborn 
 
 Tools are secondary. Insight is the product.
 
