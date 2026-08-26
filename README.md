@@ -39,13 +39,13 @@ stack = {
 ---
 
 ## 🚀 Current Technical Sprint
-*   🔬 Deepening system design and multi-objective optimization models via **ML Zoomcamp**.
-*   📚 Bridging economic theory with technical deployment using foundational **Cambridge Machine Learning text frameworks**.
-*   📈 Building modular, testable credit scoring and fraud analytics mock architectures.
+*    Deepening system design and multi-objective optimization models via **ML Zoomcamp**.
+*    Bridging economic theory with technical deployment using foundational **Cambridge Machine Learning text frameworks**.
+* Building modular, testable credit scoring and fraud analytics mock architectures.
 
 ---
 
-## 💼 Open for Collaboration & Remote Work
+##  Open for Collaboration & Remote Work
 I am actively seeking **asynchronous remote contracts, technical writing opportunities, and early-stage startup collaborations** in the following domains:
 *   Automated Data Pipeline & Database Architecture (SQL/Python)
 *   Predictive Machine Learning Classifiers (Churn, Credit-Scoring, Risk Analysis)
